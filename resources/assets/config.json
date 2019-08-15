@@ -9,7 +9,7 @@
     ]
   },
   "publicPath": "\\wp-content\\themes\\planet-cycle",
-  "devUrl": "http://rideplanetcycle.com",
+  "devUrl": "http://planet-cycle.local",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
