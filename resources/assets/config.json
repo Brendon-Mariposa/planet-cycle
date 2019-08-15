@@ -8,8 +8,8 @@
       "./scripts/customizer.js"
     ]
   },
-  "publicPath": "\\wp-content\\themes\\planetcycle",
-  "devUrl": "http://planet-cycle.local",
+  "publicPath": "\\wp-content\\themes\\planet-cycle",
+  "devUrl": "http://rideplanetcycle.com",
   "proxyUrl": "http://localhost:3000",
   "cacheBusting": "[name]_[hash:8]",
   "watch": [
