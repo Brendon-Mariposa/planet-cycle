@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/rideplanetcycle/public_html/wp-content/themes/planet-cycle
+    - /bin/cp -R images $DEPLOYPATH
