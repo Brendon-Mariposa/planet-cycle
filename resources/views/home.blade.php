@@ -47,7 +47,7 @@
 <div class="flex flex-wrap items-center">
   <?php echo do_shortcode("[pods name='Inventory' template='Inventory Homepage' limit='7' ]"); ?>
   <a href="/inventory/" class="flex flex-wrap w-11/12 md:w-1/5 items-center bg-color-33cc00 hover:bg-color-222222 h-16 mx-auto text-base font-bold uppercase hover:cursor-pointer">
-    <p class="w-full text-white text-center mx-auto">View more inventory</p>
+    <p class="w-full text-white text-center mx-auto">View ore inventory</p>
   </a>
 </div>
 
