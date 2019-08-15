@@ -15,7 +15,7 @@ footer .widget p {
 
 <footer class="pt-5 content-info">
   <div class="flex flex-wrap">
-    <p class="w-full bg-color-222222 text-2xl md:text-3xl text-white font-bold text-center uppercase py-8 md:py-2">Call Now - (912) 739-1110</p>
+    <a href="tel:9127391110" class="w-full bg-color-222222 text-2xl md:text-3xl text-white font-bold text-center uppercase py-8 md:py-2">Call Now - (912) 739-1110</a>
   </div>
   <div class="md:flex flex-wrap bg-color-2a2a2a text-white">
     <div class="md:flex flex-wrap w-11/12 py-8 mx-auto">
