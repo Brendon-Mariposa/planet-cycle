@@ -24,3 +24,13 @@ footer .widget p {
   </div>
   <p class="bg-color-222222 text-sm text-white text-center font-thin py-3">© 2016 - <?php echo get_the_date(); ?> | Planet Cycle</p>
 </footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-59859902-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-59859902-1');
+</script>
