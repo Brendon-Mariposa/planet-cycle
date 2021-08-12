@@ -46,8 +46,8 @@
 
 <div class="flex flex-wrap">
   <div class="w-11/12 md:w-5/6 bg-color-33cc00 mx-auto p-3 text-center">
-    <h3 class="text-3xl font-thin">IMPORTANT NOTE</h3>
-    <p>Due to the current situation we do not have any of these models on the showroom floor. <u>Call us for more details.</u></p>
+    <h3 class="text-3xl font-thin">INVENTORY NOTE</h3>
+    <p class="text-xl">Due to the current situation, we do not have any of these models on the showroom floor. <u>Call us for more details.</u></p>
   </div>
 </div>
 
