@@ -44,6 +44,13 @@
   </div>
 </div>
 
+<div class="flex flex-wrap">
+  <div class="w-11/12 md:w-5/6 bg-color-33cc00 mx-auto p-3 text-center">
+    <h3 class="text-3xl font-thin">IMPORTANT NOTE</h3>
+    <p>Due to the current situation we do not have any of these models on the showroom floor. <u>Call us for more details.</u></p>
+  </div>
+</div>
+
 <div class="flex flex-wrap items-center">
   <?php echo do_shortcode("[pods name='Inventory' template='Inventory Homepage' limit='7' ]"); ?>
   <a href="/inventory/" class="flex flex-wrap w-11/12 md:w-1/5 items-center bg-color-33cc00 hover:bg-color-222222 h-16 mx-auto text-base font-bold uppercase hover:cursor-pointer">
