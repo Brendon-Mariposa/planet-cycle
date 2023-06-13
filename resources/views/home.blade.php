@@ -20,15 +20,11 @@
     </div>
 
     <div class="flex flex-wrap">
-      <div class="w-full sm:w-1/3 bg-gray-200 text-center py-5">
-        <i class="text-5xl text-color-33cc00 fab fa-creative-commons-nc"></i>
-        <p class="text-base md:text-xl font-thin pt-2">No Dealer Fees</p>
-      </div>
-      <div class="w-full sm:w-1/3 bg-gray-300 text-center py-5">
+      <div class="w-full sm:w-1/2 bg-gray-300 text-center py-5">
         <i class="text-5xl text-color-33cc00 fas fa-user-tag"></i>
         <p class="text-base md:text-xl font-thin pt-2">$250 Military Discount</p>
       </div>
-      <div class="w-full sm:w-1/3 bg-gray-200 text-center py-5">
+      <div class="w-full sm:w-1/2 bg-gray-200 text-center py-5">
         <i class="text-5xl text-color-33cc00 fas fa-credit-card"></i>
         <p class="text-base md:text-xl font-thin pt-2">GATE card accepted</p>
       </div>
